@@ -35,14 +35,14 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mathematic Calculations</title>
+    <title> Mathematic Calculations </title>
     <style>
         *{
   box-sizing: border-box;
@@ -198,7 +198,7 @@ h1{
 </script>
 </body>
 </html>
-
+```
 
 ## OUTPUT:
 
