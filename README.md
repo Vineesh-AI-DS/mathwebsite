@@ -201,6 +201,8 @@ h1{
 ```
 
 ## OUTPUT:
+![Screenshot (51)](https://user-images.githubusercontent.com/93427254/149667189-48ad5f77-3058-4650-82c6-43041b77df7a.png)
+
 
 
 ## Result:
